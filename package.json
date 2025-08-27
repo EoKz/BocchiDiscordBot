@@ -1,0 +1,33 @@
+{
+  "name": "bocchibot",
+  "version": "1.0.0-beta.1",
+  "description": "A simple Discord bot written in JavaScript using Discord.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord.js",
+    "javascript",
+    "node.js",
+    "bot",
+    "bocchi",
+    "bocchi-bot",
+    "bocchibot"
+  ],
+  "author": "Kz",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "mongodb": "^6.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EoKz/BocchiDiscordBot.git"
+  },
+  "homepage": "https://github.com/EoKz/BocchiDiscordBot.git"
+}
